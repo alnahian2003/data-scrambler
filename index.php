@@ -95,7 +95,7 @@ include_once "functions.php";
                         </p>
                     </div>
                     <div class="credit">
-                        Made With <span style="color: #4b7bec">❤</span> By <a href="https://alnahian2003.github.io/me" target="_blank"> Al Nahian</a>
+                        Made With <span style="color: #4b7bec">❤</span> By <a href="https://alnahian2003.github.io" target="_blank"> Al Nahian</a>
                         <br>
                         Special Thanks To <a href="https://github.com/hasinhayder" target="_blank"> Hasin Hayder</a>
                     </div>
